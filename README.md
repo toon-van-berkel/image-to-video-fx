@@ -27,3 +27,13 @@ pip install -r requirements.txt
 ```bash
 python image_to_video.py
 ```
+
+## 📄 License
+
+ImageToVideoFX is licensed under the **PolyForm Noncommercial License 1.0.0**.
+
+You may use, study, modify and redistribute the software for **noncommercial purposes**.
+
+Commercial use requires separate permission from the copyright holder.
+
+See [`LICENSE`](LICENSE) for the full terms.
